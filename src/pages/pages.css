@@ -1,0 +1,118 @@
+.icon {
+    font-size: 1.4rem; 
+  }
+.icon1{
+    color: #fd4c82
+
+}  
+  .fonticon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .offertext {
+    font-size: 0.875rem; 
+    color: #555;
+  }
+  
+  .imgtop {
+    font-size: 1.5rem;
+    margin-right: 10px;
+  
+  }
+  
+  .imgtop1 {
+    font-size: 1.2rem;
+    color: #888;
+  }
+  
+  .img-foot {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .footer-section {
+    background-color: #f8f9fa; 
+    padding: 2rem 0;
+  }
+  
+  .inline-block {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .middle{
+   background-color: #c7e3f1;
+   border-radius: 15px;
+  }
+  .men{
+    width: 400px;
+    height: 300px; 
+  }
+  .mentext{
+    font-size: 25px;
+
+  }
+  .menlink{
+    color: palevioletred;
+  }
+  .menlink2{
+    font-size: 20px;
+  }
+  .menof{
+    margin-left: 75px;
+  }
+  .menimg{
+    border-radius: 15px;
+  }
+  .brand {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .brand1 {
+    max-width: 150px;
+  }
+  
+  .brand2 {
+    max-width: 240px;
+  }
+  
+  .brand3 {
+    max-width: 230px;
+  }
+  
+  section {
+    padding: 20px 0;
+  }
+  
+  .cap-border {
+    margin-top: 5px;
+    border-top: 8px dashed #ccc;
+    width: 100%;
+  }
+  
+  @media (max-width: 767.98px) {
+    .brand1, .brand2, .brand3 {
+      max-width: 100%;
+    }
+  }
+  .grilimg{
+    border-radius:40px;
+    width: 405px;
+    height: 300px;
+  }
+  .offer{
+    background-image:url('../images//offer.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+  }
+  .input{
+    margin-top: 180px;
+    margin-left: 450px;
+  }
+ 
